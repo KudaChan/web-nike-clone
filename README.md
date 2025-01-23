@@ -2,7 +2,7 @@
 
 This project is a clone of the Nike website built using React and Vite. It features a responsive design, various components, and sections to showcase products, services, and customer reviews.
 
-![Screenshot]([./public/assets/nike.png](https://github.com/KudaChan/web-nike-clone/blob/main/public/nike.png))
+![Screenshot](https://github.com/KudaChan/web-nike-clone/blob/main/public/nike.png)
 
 ## Table of Contents
 
