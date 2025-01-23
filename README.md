@@ -2,7 +2,7 @@
 
 This project is a clone of the Nike website built using React and Vite. It features a responsive design, various components, and sections to showcase products, services, and customer reviews.
 
-![Screenshot](public/assets/nike.png)
+![Screenshot](./public/assets/nike.png)
 
 ## Table of Contents
 
@@ -80,7 +80,7 @@ npm run dev
 
 ### File Structure
 
-  ![Screenshot](public/assets/directories.png)
+  ![Screenshot](./public/assets/directories.png)
 
 ## License
 
