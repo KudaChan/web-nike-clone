@@ -80,7 +80,7 @@ npm run dev
 
 ### File Structure
 
-  ![Screenshot](./public/assets/directories.png)
+  ![Screenshot](https://github.com/KudaChan/web-nike-clone/blob/main/public/directories.png)
 
 ## License
 
